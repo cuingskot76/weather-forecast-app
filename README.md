@@ -3,6 +3,10 @@
 ### [Live Site](https://simple-weather-forecast-app.vercel.app/)
 [![kalikul.png](https://i.postimg.cc/43WbL9p8/kalikul.png)](https://postimg.cc/LqZ1hhCf)
 
+## How to get Api key
+Navigate to [OpenWeatherMap](https://home.openweathermap.org/users/sign_in) you can Sign up for an account to generate a OpenWeather API key. after that go to ````src/components/api/getApi.js````
+````export const WEATHER_API_KEY = "PASTE YOUR API'S KEY HERE"````
+
 ## How to use
 
 ````bash
@@ -20,8 +24,9 @@ $ npm start
 ````
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
+I'm happy about every pull request you open and issue you find to help make this API more awesome. Please note that it might sometimes take me a while to get back to you. Feel free to ping me if I don't respond.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT license. Please see the [LICENSE](https://choosealicense.com/licenses/mit/) file distributed with this source code for further information regarding copyright and licensing.
+
+Be aware that the [OpenWeatherMap](https://openweathermap.org/price) data is not licensed under the MIT. Check out the following official links to read about the terms, pricing and license of OpenWeatherMap before using their service.
