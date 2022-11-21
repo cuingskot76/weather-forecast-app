@@ -1,8 +1,7 @@
 # weather-forecast-app
 
 ### [Live Site](https://simple-weather-forecast-app.vercel.app/)
-
-[![ss.png](https://i.postimg.cc/qq52wxr0/ss.png)](https://postimg.cc/ctfK4Y65)
+[![kalikul.png](https://i.postimg.cc/43WbL9p8/kalikul.png)](https://postimg.cc/LqZ1hhCf)
 
 ## How to use
 
