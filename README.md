@@ -10,10 +10,10 @@
 $ git clone https://github.com/cuingskot76/weather-forecast-app.git
 
 # Go into the repository
-$ cd weather-app
+$ cd weather-forecast-app
 
 # Install dependencies
-$ npm intall
+$ npm install
 
 # Run the app
 $ npm start
