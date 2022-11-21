@@ -10,6 +10,7 @@ Navigate to [OpenWeatherMap](https://home.openweathermap.org/users/sign_in) you 
 ````export const WEATHER_API_KEY = "PASTE YOUR API'S KEY HERE"````
 
 ## How to use
+Make sure your system has been installed [Git](https://git-scm.com/) and [Nodejs](https://nodejs.org/en/)
 
 ````bash
 # Clone this repository
