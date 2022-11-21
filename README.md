@@ -2,6 +2,8 @@
 
 ### [Live Site](https://simple-weather-forecast-app.vercel.app/)
 
+(https://postimg.cc/ctfK4Y65)
+
 ## How to use
 
 ````bash
