@@ -5,6 +5,8 @@
 
 ## How to get Api key
 Navigate to [OpenWeatherMap](https://home.openweathermap.org/users/sign_in) you can Sign up for an account to generate a OpenWeather API key. after that copy your API key and go to ````src/components/api/getApi.js````
+
+
 ````export const WEATHER_API_KEY = "PASTE YOUR API'S KEY HERE"````
 
 ## How to use
