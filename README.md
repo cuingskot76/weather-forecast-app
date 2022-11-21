@@ -2,7 +2,7 @@
 
 ### [Live Site](https://simple-weather-forecast-app.vercel.app/)
 
-(https://postimg.cc/ctfK4Y65)
+[![ss.png](https://i.postimg.cc/qq52wxr0/ss.png)](https://postimg.cc/ctfK4Y65)
 
 ## How to use
 
