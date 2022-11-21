@@ -76,7 +76,7 @@ const Home = () => {
 
         // air quality index
         const airPollution = fetch(
-            `http://api.openweathermap.org/data/2.5/air_pollution?lat=${lat}&lon=${lon}&appid=${WEATHER_API_KEY}`
+            `https://api.openweathermap.org/data/2.5/air_pollution?lat=${lat}&lon=${lon}&appid=${WEATHER_API_KEY}`
         );
 
         Promise.all([currentWeather, forecastWeather, airPollution])

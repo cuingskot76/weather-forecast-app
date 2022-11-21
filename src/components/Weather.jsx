@@ -65,7 +65,7 @@ const Weather = ({ cordWeather, cordLocation, loadingWeather, forecast }) => {
                         >
                             <div>
                                 <img
-                                    src={`http://openweathermap.org/img/wn/${icon}.png`}
+                                    src={`https://openweathermap.org/img/wn/${icon}.png`}
                                     alt="weather-icon"
                                     className="ml-8 w-32"
                                 />

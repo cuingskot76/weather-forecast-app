@@ -76,7 +76,7 @@ const ForecastToday = ({ forecast }) => {
                                     {moment(item.dt_txt).format("LT")}
                                 </p>
                                 <img
-                                    src={`http://openweathermap.org/img/wn/${item?.weather[0]?.icon}.png`}
+                                    src={`https://openweathermap.org/img/wn/${item?.weather[0]?.icon}.png`}
                                     alt="weather-icon"
                                     className="w-32"
                                 />
